@@ -1,0 +1,8 @@
+Train No	Train name	               Source		Destination	    Departure Time	   Arrival Time    Distance    Executive Coach   Executive Fare     Economy Coach    Economy Fare
+
+101210	     Shatabdi_Express	      Surat		   	Mumbai	        11:00_AM		    11:20_PM        400         Available             4000             Available         2000
+101310	     Vande_Bharat_Express     Bhopal		Rewa		    8:00_PM		        4:30_AM         600         Available             6000             Available         3000
+101410	     Rajdhani_Express	      Delhi		  	Kolkata		    1:30_PM		        3:00_AM         800         Available             8000             Available         4000
+101511	     Malwa_Express	          Indore	    Jammutavi	    12:30_PM		    9:30_AM         700         Available             7000             Available         3500
+101616	     Chennai_Express	      Chennai		Goa		        9:00_AM	            10:00_Am        1200        Available             12000            Available         6000
+103435       Narmada_Express          Indore        Jabalpur        5:00_PM             4:00_AM         650         Available             6500             Available         3250
