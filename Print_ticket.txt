@@ -1,0 +1,37 @@
+
+
+
+
+Train No : 103435
+
+Train Name : Narmada_Express
+
+Your Boarding Station is : Indore
+
+Your Destination is : Jabalpur
+
+Distance between stations: 650 km
+
+Train Departure Time will be : 5:00_PM
+
+Train Arrival Time will be : 4:00_AM
+
+Name : shwetabh Age : 23 Gender : M	 	   Date of journey : 12/2/32 Your PNR number is : 7359243088
+
+
+
+Train No : 101210
+
+Train Name : Shatabdi_Express
+
+Your Boarding Station is : Surat
+
+Your Destination is : Mumbai
+
+Distance between stations: 400 km
+
+Train Departure Time will be : 11:00_AM
+
+Train Arrival Time will be : 11:20_PM
+
+Name : Ankit Age : 23 Gender : M	 	   Date of journey : 25/04/24 Your PNR number is : 1100210294
